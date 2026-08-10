@@ -1,6 +1,3 @@
-# Perennial-Resonance
-Perennial Resonance é um projeto pessoal de jogo 2D de puzzle
-
 # Perinial Ressonância
 
 Jogo 2D de aventura e puzzle, desenvolvido como projeto pessoal.
