@@ -1,2 +1,28 @@
 # Perennial-Resonance
 Perennial Resonance é um projeto pessoal de jogo 2D de puzzle
+
+# Perinial Ressonância
+
+Jogo 2D de aventura e puzzle, desenvolvido como projeto pessoal.
+
+## 💡 Sobre o projeto
+
+O jogo se passa em um mundo de fantasia, em uma ilha onde o personagem 
+precisa resolver puzzles para conseguir 5 chaves, abrir uma porta no 
+meio da ilha e pegar a espada sagrada.
+
+## 🛠️ Tecnologias utilizadas
+
+- Engine/Framework — libGDX
+- Linguagem — Java
+- IDE — IntelliJ IDEA
+
+## 📌 Status atual
+
+🚧 Em desenvolvimento
+
+- [x] Mecânica de movimento, menu e opções
+- [ ] Área inicial
+- [ ] Áreas dos puzzles
+- [ ] Personagens
+- [ ] Algumas mecânicas do jogo
