@@ -1,6 +1,6 @@
 # Perinial Ressonância
 
-Jogo 2D de aventura e puzzle, desenvolvido como projeto pessoal.
+Era um jogo 2D de aventura e puzzle, desenvolvido como projeto pessoal, mas nos dias atuais apenas um projeto cancelado.
 
 ## 💡 Sobre o projeto
 
